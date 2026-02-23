@@ -38,7 +38,7 @@ Webサイトの構造とデザインの基礎を学習しました。
     </tr>
   </table>
 
-- [Java Servlet Webアプリ演習](https://github.com/LineTeo/servlet-and-jsp2026)
+- [Java Servlet Webアプリ演習](https://github.com/LineTeo/servlet_and_JSP_2026.git)
   <table>
     <tr>
       <td>
