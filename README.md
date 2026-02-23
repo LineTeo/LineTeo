@@ -14,7 +14,6 @@
 Webサイトの構造とデザインの基礎を学習しました。
 - [自己紹介ページ](https://github.com/LineTeo/WebDesign)
 
-- [Java Servlet Webアプリ演習](https://github.com/LineTeo/servlet-and-jsp2026)
 
 ### 2. Javaプログラミング基礎・実践 (1/23 - 3/22)
 文法からオブジェクト指向、Webアプリ（サーブレット）まで幅広く習得しました。
