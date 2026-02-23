@@ -14,14 +14,49 @@
 Webサイトの構造とデザインの基礎を学習しました。
 - [自己紹介ページ](https://github.com/LineTeo/WebDesign)
 
+- [Java Servlet Webアプリ演習](https://github.com/LineTeo/servlet-and-jsp2026)
+
 ### 2. Javaプログラミング基礎・実践 (1/23 - 3/22)
 文法からオブジェクト指向、Webアプリ（サーブレット）まで幅広く習得しました。
 - [Java基礎演習リポジトリ](https://github.com/LineTeo/java-practice2026)
-  - **献立プログラム**: 基本構文の確認、ファイル入出力の実装(ファイル未アップロード）
-  - **戦車戦ゲーム**: オブジェクト指向の概念を応用した開発（課外学習として機械学習による強化研究を継続中）
+  <table>
+    <tr>
+      <td>
+        <b>献立プログラム</b>：基本構文の確認、ファイル入出力の実装<br>
+      </td>
+      <td>
+        関連ソース未アップロード
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>戦車戦ゲーム</b>：オブジェクト指向の概念を応用した開発<br>
+        （課外学習として機械学習による強化研究を継続中）
+      </td>
+      <td>
+        <img width="200" alt="戦車戦ゲーム" src="https://github.com/user-attachments/assets/81434947-8277-4ccf-a8c0-f4ae1284945d">
+      </td>
+    </tr>
+  </table>
+
 - [Java Servlet Webアプリ演習](https://github.com/LineTeo/servlet-and-jsp2026)
-  - **献立検索プログラム**: Servletを用いたWebアプリケーション
-  - **市町村人口調査プログラム**: (現在作成中)
+  <table>
+    <tr>
+      <td>
+        <b>献立検索プログラム</b>：Servletを用いたWebアプリケーション
+      </td>
+      <td>
+        <img width="200" alt="献立検索プログラム" src="https://github.com/user-attachments/assets/03cf2fa8-ea62-4a2c-954d-526de8a80314">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>市町村人口調査プログラム</b>：APIによる外部サーバーデータへの参照<br>(現在調査中)
+      </td>
+      <td>
+      </td>
+    </tr>
+  </table>
 
 ### 3. Pythonプログラミング基礎・実践 (3/23 -)
 ### 4. データベース基礎 (5/23 -)
