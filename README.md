@@ -53,6 +53,7 @@ Webサイトの構造とデザインの基礎を学習しました。
         <b>市町村人口調査プログラム</b>：APIによる外部サーバーデータへの参照<br>(現在調査中)
       </td>
       <td>
+        <img width="220" alt="image" src="https://github.com/user-attachments/assets/21e2c831-a1ca-485e-8fe0-559b2958a52f" />
       </td>
     </tr>
   </table>
