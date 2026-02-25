@@ -22,6 +22,7 @@ Webサイトの構造とデザインの基礎を学習しました。
     <tr>
       <td>
         <b>献立プログラム</b>：基本構文の確認、ファイル入出力の実装<br>
+        クラス、パッケージ等の演習
       </td>
       <td>
         関連ソース未アップロード
@@ -53,7 +54,7 @@ Webサイトの構造とデザインの基礎を学習しました。
         <b>市町村人口調査プログラム</b>：APIによる外部サーバーデータへの参照<br>e-Statからの市町村人口データの取得
       </td>
       <td>
-        <img width="220" alt="image" src="https://github.com/user-attachments/assets/21e2c831-a1ca-485e-8fe0-559b2958a52f" />
+        <img width="250" alt="image" src="https://github.com/user-attachments/assets/c6300bd0-b22f-4a43-95b3-e665b8df07e2" />
       </td>
     </tr>
   </table>
