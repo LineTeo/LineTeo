@@ -43,7 +43,7 @@ Webサイトの構造とデザインの基礎を学習しました。
   <table>
     <tr>
       <td>
-        <b>献立検索プログラム</b>：Servletを用いたWebアプリケーション
+        <b>献立検索プログラム</b>：Servletを用いたWebアプリケーション<br>講義初日の演習<br>- Servletのみによる実装<br>- init(),doGet(),doPost<br>- サーバーファイルの読み込み
       </td>
       <td>
         <img width="200" alt="献立検索プログラム" src="https://github.com/user-attachments/assets/03cf2fa8-ea62-4a2c-954d-526de8a80314">
@@ -51,7 +51,7 @@ Webサイトの構造とデザインの基礎を学習しました。
     </tr>
     <tr>
       <td>
-        <b>市町村人口調査プログラム</b>：APIによる外部サーバーデータへの参照<br>e-Statからの市町村人口データの取得
+        <b>市町村人口調査プログラム</b>：APIによる外部サーバーデータへの参照<br>上記演習の発展型<br>- e-Statからの市町村人口データの取得<br>- 取得データをサーバー上で加工
       </td>
       <td>
         <img width="250" alt="image" src="https://github.com/user-attachments/assets/c6300bd0-b22f-4a43-95b3-e665b8df07e2" />
