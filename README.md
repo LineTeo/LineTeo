@@ -43,7 +43,8 @@ Webサイトの構造とデザインの基礎を学習しました。
   <table>
     <tr>
       <td>
-        <b>献立検索プログラム</b>：Servletを用いたWebアプリケーション<br>講義初日の演習<br>- Servletのみによる実装<br>- init(),doGet(),doPost<br>- サーバーファイルの読み込み
+        <b>献立検索プログラム</b>：1.Servletを用いたWebアプリケーション<br>講義初日の演習<br>- Servletのみによる実装(init(),doGet(),doPost<br>
+  
       </td>
       <td>
         <img width="200" alt="献立検索プログラム" src="https://github.com/user-attachments/assets/03cf2fa8-ea62-4a2c-954d-526de8a80314">
