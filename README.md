@@ -59,6 +59,18 @@ Webサイトの構造とデザインの基礎を学習しました。
         <img width="250" alt="image" src="https://github.com/user-attachments/assets/c6300bd0-b22f-4a43-95b3-e665b8df07e2" />
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>実践編３ セッションスコープ</b>：セッションスコープを使った演習<br>ユーザー登録～ログイン～ユーザー情報表示前のミニアプリ作成<br>
+        - データファイルの有無やユーザーの重複等をチェックして二重登録を回避<br>
+        - データへのアクセスは、DAO介してのみ行う<br>
+        - CSVデータの扱いをOpenCSVを使うことで、改行やカンマなどの問題を回避 
+      </td>
+      <td>
+        <img width="140" height="371" alt="image" src="https://github.com/user-attachments/assets/fc047543-1e70-43a3-8dd2-32a2efaa98f7" />
+        <img width="140" alt="image" src="https://github.com/user-attachments/assets/d3d1ab17-4a37-4128-8301-3bcb9d07e935" />
+      </td>
+    </tr>
   </table>
 
 ### 3. Pythonプログラミング基礎・実践 (3/23 -)
