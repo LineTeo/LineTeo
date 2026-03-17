@@ -72,7 +72,21 @@ Webサイトの構造とデザインの基礎を学習しました。
         <img width="140" alt="image" src="https://github.com/user-attachments/assets/d3d1ab17-4a37-4128-8301-3bcb9d07e935" />
       </td>
     </tr>
-  </table>
+    <tr>
+      <td>
+        <b>実践編４ JDBCプログラム</b>：MapTweetアプリの作成<br>
+        - テキストの演習のつぶやきアプリを参考に、さらに場所を地図で示す機能を追加<br>
+        - 前項のログインアプリと合体したアプリを作成<br>
+        - 地図ライブラリに Leaflet.js + OpenStreetMap（無料・APIキー不要）を使用<br>
+        - ツイートとユーザーデータをデータベースで管理するため、DAOをJDBC化<br>
+        - (初版はつぶやきデータをXML形式のサーバーフィアルとしてXMLデータアクセスを実装<br>
+        - （XML向けのコードも内部に残してある）
+      </td>
+      <td>
+         <img width="140" alt="image" src="https://github.com/user-attachments/assets/43d49686-b937-4401-b007-16cdd10ee768" />
+         <img width="140" alt="image" src="https://github.com/user-attachments/assets/45119ed7-9954-4da4-a5a8-d844bbebe1fb" />
+      </td>
+    </tr>  </table>
 
 ### 3. Pythonプログラミング基礎・実践 (3/23 -)
 ### 4. データベース基礎 (5/23 -)
