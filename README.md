@@ -81,6 +81,7 @@ Webサイトの構造とデザインの基礎を学習しました。
         - ツイートとユーザーデータをデータベースで管理するため、DAOをJDBC化<br>
         - (初版はつぶやきデータをXML形式のサーバーフィアルとしてXMLデータアクセスを実装<br>
         - （XML向けのコードも内部に残してある）
+        https://github.com/LineTeo/MapTweet
       </td>
       <td>
          <img width="140" alt="image" src="https://github.com/user-attachments/assets/43d49686-b937-4401-b007-16cdd10ee768" />
