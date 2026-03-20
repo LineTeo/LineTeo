@@ -79,8 +79,7 @@ Webサイトの構造とデザインの基礎を学習しました。
         - 前項のログインアプリと合体したアプリを作成<br>
         - 地図ライブラリに Leaflet.js + OpenStreetMap（無料・APIキー不要）を使用<br>
         - ツイートとユーザーデータをデータベースで管理するため、DAOをJDBC化<br>
-        - (初版はつぶやきデータをXML形式のサーバーフィアルとしてXMLデータアクセスを実装<br>
-        - （XML向けのコードも内部に残してある）
+        (初版はデータをXMLファイルに保存。JDBC化後も内部にXML用コードは残してある）<br>
         https://github.com/LineTeo/MapTweet
       </td>
       <td>
