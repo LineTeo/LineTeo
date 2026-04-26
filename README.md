@@ -67,7 +67,7 @@ Webサイトの構造とデザインの基礎を学習しました。
         - CSVデータの扱いをOpenCSVを使うことで、改行やカンマなどの問題を回避 
       </td>
       <td>
-        <img width="140" height="371" alt="image" src="https://github.com/user-attachments/assets/fc047543-1e70-43a3-8dd2-32a2efaa98f7" />
+        <img width="140" alt="image" src="https://github.com/user-attachments/assets/fc047543-1e70-43a3-8dd2-32a2efaa98f7" />
         <img width="140" alt="image" src="https://github.com/user-attachments/assets/d3d1ab17-4a37-4128-8301-3bcb9d07e935" />
       </td>
     </tr>
@@ -111,7 +111,7 @@ Webサイトの構造とデザインの基礎を学習しました。
         - 1のプログラムから日照時間の季節変動補正を理論値ベースに変更し、回帰係数も月ごとに変えたプログラムをAIに対してゼロから式やコードを使わず、言葉だけのやり取りでコーディングまで実施
    </td>
    <td>
-        <img width="400" alt="image" src="https://github.com/user-attachments/assets/4bbb24ad-3372-4eaf-8e2f-566f18cb36f7" />
+        <img width="400" alt="image" src="https://github.com/user-attachments/assets/32fc854b-10ec-4c17-8fd0-a894e2ca1270" />
    </td>
   </tr>
 </table>  
