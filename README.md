@@ -85,22 +85,41 @@ Webサイトの構造とデザインの基礎を学習しました。
          <img width="140" alt="image" src="https://github.com/user-attachments/assets/43d49686-b937-4401-b007-16cdd10ee768" />
          <img width="140" alt="image" src="https://github.com/user-attachments/assets/45119ed7-9954-4da4-a5a8-d844bbebe1fb" />
       </td>
-    </tr>  </table>
+    </tr>
+  </table>
 
 ### 3. Pythonプログラミング基礎・実践 (3/23 -)
-- [Pythonプログラム演習](https://github.com/LineTeo/Python_Practice1.git)
-  <table>
-    <tr>
-      <td>
-        <b>基礎編演習</b><br>
+<b>基礎編演習</b><br>
+- [Pythonプログラム演習](https://github.com/LineTeo/Python_Practice1.git)<br>
+<table>
+  <tr>
+    <td>
+    <b>人口データ解析</b><br>
         1.JAVAの演習と同様に、eStatから、こんどは人口データのExcelファイルをダウンロードするプログラムを作成<br>
         2.ダウンロードした複数のExcelファイルから条件にあったデータ（市町村）を抽出し、グラフ化するプログラムを作成
-      </td>
-      <td>
+    </td>
+    <td>
         <img width="400" alt="image" src="https://github.com/user-attachments/assets/4bbb24ad-3372-4eaf-8e2f-566f18cb36f7" />
-      </td>
-    </tr>
-    <tr>
+    </td>
+ </tr>
+ <tr>
+   <td>
+    <b>気象データ解析</b><br>
+        1.過去25年の気象データから平均気温のトレンドを分析<br>
+        - 季節による気温変動や日照時間などの天気依存成分をFFTやBPF、回帰分析で除去処理してグラフに表示する<br>
+        2.バイブコーディング<br>
+        - 1のプログラムから日照時間の季節変動補正を理論値ベースに変更し、回帰係数も月ごとに変えたプログラムをAIに対してゼロから式やコードを使わず、言葉だけのやり取りでコーディングまで実施
+   </td>
+   <td>
+        <img width="400" alt="image" src="https://github.com/user-attachments/assets/4bbb24ad-3372-4eaf-8e2f-566f18cb36f7" />
+   </td>
+  </tr>
+</table>  
+
+<b>自主課題演習</b><br>
+- [Pythonで機械学習](https://github.com/LineTeo/Python_Practice1.git)   
+<table>
+  <tr>
       <td>
         <b>自主課題</b><br>
         JAVA演習で作成した戦車ゲームのAIをOptunaによる機械学習で強化するプログラムを作成<br>
@@ -116,7 +135,7 @@ Webサイトの構造とデザインの基礎を学習しました。
         学習によって、同じ条件では勝率を劇的に改善（10%以下　→　ほぼ100％）でき、Optunaによる機械学習の流れも理解できた。
       </td>
     </tr>
-    </table>
+</table>
 ### 4. データベース基礎 (5/23 -)
 ### 5. ソフトウエア開発演習 (6/8 -)
 
