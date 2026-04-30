@@ -114,6 +114,16 @@ Webサイトの構造とデザインの基礎を学習しました。
         <img width="400" alt="image" src="https://github.com/user-attachments/assets/32fc854b-10ec-4c17-8fd0-a894e2ca1270" />
    </td>
   </tr>
+ <tr>
+   <td>
+    <b>Webアプリ演習</b><br>
+        1.過日本語を表示して英単語を書かせる。tkinterと辞書の使い方演習<br>
+        2.1をflaskを使ったWevアプリにする演習<br>
+   </td>
+   <td>
+     <img width="400" alt="image" src="https://github.com/user-attachments/assets/c4244082-9238-4427-bd22-cfbdcd362204" />
+   </td>
+  </tr>
 </table>  
 
 <b>自主課題演習</b><br>
