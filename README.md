@@ -127,7 +127,7 @@ Webサイトの構造とデザインの基礎を学習しました。
 </table>  
 
 <b>自主課題演習</b><br>
-- [Pythonで機械学習](https://github.com/LineTeo/Python_Practice1.git)   
+- [Pythonで機械学習](https://github.com/LineTeo/Python_ml-project.git)   
 <table>
   <tr>
       <td>
